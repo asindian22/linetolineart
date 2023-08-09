@@ -1,0 +1,129 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* body {
+    padding-top: 56px;
+} */
+.padding-top-10
+{
+    padding-top: 100px;
+}
+.main-font {
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-link {
+    margin-right: 20px;
+    text-transform: capitalize;
+    font-weight: 500;
+    transition: all 0.5s;
+
+}
+
+.nav-link:hover {
+    color: #caa23e;
+    transition: all 0.5s;
+}
+
+.carousel-inner {
+    height: 500px;
+}
+
+.carousel-item {
+    height: 500px;
+}
+
+.fs-large {
+    font-size: 70px;
+}
+
+.fs-md {
+    font-size: 50px;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.fs-small {
+    font-size: 13px;
+}
+
+.text-main-color {
+    color: #caa23e;
+}
+
+.h-5 {
+    height: 5%;
+}
+
+.btn-edit {
+    height: 50px;
+    width: 180px;
+    transition: 0.5s;
+
+}
+
+.primary-btn:hover {
+    width: 200px;
+    transition: 0.5s;
+    background-color: #121212;
+    color: white;
+}
+
+.primary-btn {
+
+    background-color: #caa23e;
+    color: white;
+    border: solid 2px #caa23e;
+}
+
+.sec-btn {
+    background-color: white;
+    color: #121212;
+    border: solid 2px #fff;
+}
+
+.sec-btn:hover {
+    background-color: white;
+    color: #121212;
+    width: 200px;
+    transition: 0.5s;
+}
+
+.impactbg {
+    background-image: url("../images/impact.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100%;
+}
+
+.white-bg {
+    background-color: rgba(255, 255, 255, 0.8);
+    display: flex;
+    flex-direction: column;
+}
+
+
+.background-black {
+    background-color: #121212;
+}
+.w-49
+{
+    width: 49%;
+}
+
+.upper-section
+{
+    background-color: #fff7ea;
+}
+
+ul
+{
+    list-style-type: none;
+}
